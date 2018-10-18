@@ -3,39 +3,39 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://192.168.0.20:1313/post/test1/</loc>
+    <loc>https://readmehong.github.io/post/test1/</loc>
     <lastmod>2018-09-05T15:13:56+09:00</lastmod>
   </url>
   
   <url>
-    <loc>http://192.168.0.20:1313/post/test/</loc>
+    <loc>https://readmehong.github.io/post/test/</loc>
     <lastmod>2018-09-05T10:35:50+09:00</lastmod>
   </url>
   
   <url>
-    <loc>http://192.168.0.20:1313/categories/</loc>
+    <loc>https://readmehong.github.io/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://192.168.0.20:1313/</loc>
+    <loc>https://readmehong.github.io/</loc>
     <lastmod>2018-09-05T15:13:56+09:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://192.168.0.20:1313/post/</loc>
+    <loc>https://readmehong.github.io/post/</loc>
     <lastmod>2018-09-05T15:13:56+09:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://192.168.0.20:1313/tags/</loc>
+    <loc>https://readmehong.github.io/tags/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://192.168.0.20:1313/post/branch/</loc>
+    <loc>https://readmehong.github.io/post/branch/</loc>
   </url>
   
 </urlset>

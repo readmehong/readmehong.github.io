@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on My New Hugo Site</title>
-    <link>http://192.168.0.20:1313/post/</link>
+    <link>https://readmehong.github.io/post/</link>
     <description>Recent content in Posts on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 05 Sep 2018 15:13:56 +0900</lastBuildDate>
     
-	<atom:link href="http://192.168.0.20:1313/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://readmehong.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>test1</title>
-      <link>http://192.168.0.20:1313/post/test1/</link>
+      <link>https://readmehong.github.io/post/test1/</link>
       <pubDate>Wed, 05 Sep 2018 15:13:56 +0900</pubDate>
       
-      <guid>http://192.168.0.20:1313/post/test1/</guid>
+      <guid>https://readmehong.github.io/post/test1/</guid>
       <description>다시 생성해본 테스트 파일</description>
     </item>
     
     <item>
       <title>test</title>
-      <link>http://192.168.0.20:1313/post/test/</link>
+      <link>https://readmehong.github.io/post/test/</link>
       <pubDate>Wed, 05 Sep 2018 10:35:50 +0900</pubDate>
       
-      <guid>http://192.168.0.20:1313/post/test/</guid>
+      <guid>https://readmehong.github.io/post/test/</guid>
       <description>test hugo server</description>
     </item>
     
     <item>
       <title>branch comment</title>
-      <link>http://192.168.0.20:1313/post/branch/</link>
+      <link>https://readmehong.github.io/post/branch/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://192.168.0.20:1313/post/branch/</guid>
+      <guid>https://readmehong.github.io/post/branch/</guid>
       <description>create branch  git branch test  switch branch
  git checkout test  수정한 브런치의 파일은 add 및 commit 를 하면 해당 브런치에 커미이 된다. (로컬에)
  &amp;ndash;&amp;gt; git add * / git commit -m &amp;ldquo;test&amp;rdquo;  git branch 삭제 하는 방법(로컬에서)
