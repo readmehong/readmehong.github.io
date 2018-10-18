@@ -5,10 +5,19 @@
     <link>/post/</link>
     <description>Recent content in Posts on readmehong hugo blog test</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 05 Sep 2018 15:13:56 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 18 Oct 2018 18:07:37 +0900</lastBuildDate>
     
 	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>About</title>
+      <link>/post/about/</link>
+      <pubDate>Thu, 18 Oct 2018 18:07:37 +0900</pubDate>
+      
+      <guid>/post/about/</guid>
+      <description>this is About TEST TEST!!!</description>
+    </item>
     
     <item>
       <title>test1</title>
