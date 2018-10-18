@@ -12,6 +12,15 @@
     
     <item>
       <title>About</title>
+      <link>/about/</link>
+      <pubDate>Thu, 18 Oct 2018 18:07:37 +0900</pubDate>
+      
+      <guid>/about/</guid>
+      <description>this is About TEST TEST!!!</description>
+    </item>
+    
+    <item>
+      <title>About</title>
       <link>/post/about/</link>
       <pubDate>Thu, 18 Oct 2018 18:07:37 +0900</pubDate>
       
