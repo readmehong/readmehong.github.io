@@ -11,12 +11,12 @@
     
     
     <item>
-      <title>About</title>
-      <link>/post/about/</link>
+      <title> post_About</title>
+      <link>/post/post_about/</link>
       <pubDate>Thu, 18 Oct 2018 18:07:37 +0900</pubDate>
       
-      <guid>/post/about/</guid>
-      <description>this is About TEST TEST!!!</description>
+      <guid>/post/post_about/</guid>
+      <description>POST this is About TEST TEST!!!</description>
     </item>
     
     <item>
