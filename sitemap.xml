@@ -8,6 +8,11 @@
   </url>
   
   <url>
+    <loc>/post/branch/</loc>
+    <lastmod>2018-10-02T10:35:50+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/post/test1/</loc>
     <lastmod>2018-09-05T15:13:56+09:00</lastmod>
   </url>
@@ -31,10 +36,6 @@
   <url>
     <loc>/tags/</loc>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/post/branch/</loc>
   </url>
   
   <url>

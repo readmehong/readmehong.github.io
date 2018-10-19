@@ -20,6 +20,19 @@
     </item>
     
     <item>
+      <title>branch comment</title>
+      <link>/post/branch/</link>
+      <pubDate>Tue, 02 Oct 2018 10:35:50 +0900</pubDate>
+      
+      <guid>/post/branch/</guid>
+      <description>create branch  git branch test  switch branch
+ git checkout test  수정한 브런치의 파일은 add 및 commit 를 하면 해당 브런치에 커미이 된다. (로컬에)
+ &amp;ndash;&amp;gt; git add * / git commit -m &amp;ldquo;test&amp;rdquo;  git branch 삭제 하는 방법(로컬에서)
+ git branch -d test  git branch 를 git 서버에 push 하는 방법.
+ git push origin test 해당 브런치가 git 서버에 나타나게 된다.  git 서버 상 branch 삭제 방법</description>
+    </item>
+    
+    <item>
       <title>test1</title>
       <link>/post/test1/</link>
       <pubDate>Wed, 05 Sep 2018 15:13:56 +0900</pubDate>
@@ -35,19 +48,6 @@
       
       <guid>/post/test/</guid>
       <description>test hugo server</description>
-    </item>
-    
-    <item>
-      <title>branch comment</title>
-      <link>/post/branch/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/post/branch/</guid>
-      <description>create branch  git branch test  switch branch
- git checkout test  수정한 브런치의 파일은 add 및 commit 를 하면 해당 브런치에 커미이 된다. (로컬에)
- &amp;ndash;&amp;gt; git add * / git commit -m &amp;ldquo;test&amp;rdquo;  git branch 삭제 하는 방법(로컬에서)
- git branch -d test  git branch 를 git 서버에 push 하는 방법.
- git push origin test 해당 브런치가 git 서버에 나타나게 된다.  git 서버 상 branch 삭제 방법</description>
     </item>
     
   </channel>
