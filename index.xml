@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>readmehong hugo blog test</title>
+    <title></title>
     <link>/</link>
-    <description>Recent content on readmehong hugo blog test</description>
+    <description>Recent content on </description>
     <generator>Hugo -- gohugo.io</generator>
+    <language>UTF-8</language>
     <lastBuildDate>Thu, 18 Oct 2018 18:07:37 +0900</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
