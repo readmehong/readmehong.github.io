@@ -17,7 +17,8 @@
       <pubDate>Tue, 23 Oct 2018 15:16:07 +0900</pubDate>
       
       <guid>/post/hugo/modify_head/</guid>
-      <description> Hugo blog &amp;lt;head&amp;gt;&amp;lt;/head&amp;gt; 내용 추가 방법  head 에Google AdSense 코드 추가(theme : Mainroad) /themes/mainroad/layouts/_default/baseof.html 수정  baseof.html은 .html 파일을 만드는 기본틀.head에 google adsense 코드 삽입   &amp;lt;script async src=&amp;quot;//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js&amp;quot;&amp;gt;&amp;lt;/script&amp;gt; &amp;lt;script&amp;gt; (adsbygoogle = window.adsbygoogle || []).push({ google_ad_client: &amp;quot;****&amp;quot;, enable_page_level_ads: true }); &amp;lt;/script&amp;gt;  </description>
+      <description> Hugo blog &amp;lt;head&amp;gt;&amp;lt;/head&amp;gt; 내용 추가 방법 head 에Google AdSense 코드 추가(theme : Mainroad) /themes/mainroad/layouts/_default/baseof.html 수정 baseof.html은 .html 파일을 만드는 기본틀.head에 google adsense 코드 삽입
+&amp;lt;script async src=&amp;quot;//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js&amp;quot;&amp;gt;&amp;lt;/script&amp;gt; &amp;lt;script&amp;gt; (adsbygoogle = window.adsbygoogle || []).push({ google_ad_client: &amp;quot;****&amp;quot;, enable_page_level_ads: true }); &amp;lt;/script&amp;gt;  </description>
     </item>
     
   </channel>
