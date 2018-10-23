@@ -3,12 +3,12 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/post/modify_head/</loc>
+    <loc>/post/hugo/modify_head/</loc>
     <lastmod>2018-10-23T15:16:07+09:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/nextcloud_update/</loc>
+    <loc>/post/nas/nextcloud_update/</loc>
     <lastmod>2018-10-22T15:57:14+09:00</lastmod>
   </url>
   
@@ -18,33 +18,18 @@
   </url>
   
   <url>
-    <loc>/post/post_about/</loc>
-    <lastmod>2018-10-18T18:07:37+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/branch/</loc>
+    <loc>/post/git/branch/</loc>
     <lastmod>2018-10-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/test1/</loc>
-    <lastmod>2018-09-05T15:13:56+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/test/</loc>
-    <lastmod>2018-09-05T10:35:50+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/categories/blog/</loc>
+    <loc>/tags/blog/</loc>
     <lastmod>2018-10-23T15:16:07+09:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/blog/</loc>
+    <loc>/categories/blog/</loc>
     <lastmod>2018-10-23T15:16:07+09:00</lastmod>
     <priority>0</priority>
   </url>
@@ -80,13 +65,13 @@
   </url>
   
   <url>
-    <loc>/categories/nas/</loc>
+    <loc>/tags/nas/</loc>
     <lastmod>2018-10-22T15:57:14+09:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/nas/</loc>
+    <loc>/categories/nas/</loc>
     <lastmod>2018-10-22T15:57:14+09:00</lastmod>
     <priority>0</priority>
   </url>
