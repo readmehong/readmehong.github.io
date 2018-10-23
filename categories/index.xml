@@ -21,20 +21,20 @@
     </item>
     
     <item>
-      <title>Cate Test2</title>
-      <link>/categories/cate-test2/</link>
+      <title>Branch</title>
+      <link>/categories/branch/</link>
       <pubDate>Thu, 18 Oct 2018 00:00:00 +0000</pubDate>
       
-      <guid>/categories/cate-test2/</guid>
+      <guid>/categories/branch/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Categories Test1</title>
-      <link>/categories/categories-test1/</link>
+      <title>Git</title>
+      <link>/categories/git/</link>
       <pubDate>Thu, 18 Oct 2018 00:00:00 +0000</pubDate>
       
-      <guid>/categories/categories-test1/</guid>
+      <guid>/categories/git/</guid>
       <description></description>
     </item>
     
