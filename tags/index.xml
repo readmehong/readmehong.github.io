@@ -39,6 +39,15 @@
     </item>
     
     <item>
+      <title>Linux</title>
+      <link>/tags/linux/</link>
+      <pubDate>Wed, 24 Oct 2018 15:40:17 +0900</pubDate>
+      
+      <guid>/tags/linux/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Nas</title>
       <link>/tags/nas/</link>
       <pubDate>Mon, 22 Oct 2018 15:57:14 +0900</pubDate>
@@ -53,6 +62,33 @@
       <pubDate>Mon, 22 Oct 2018 15:57:14 +0900</pubDate>
       
       <guid>/tags/nextcloud/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Profile</title>
+      <link>/tags/profile/</link>
+      <pubDate>Wed, 24 Oct 2018 15:40:17 +0900</pubDate>
+      
+      <guid>/tags/profile/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Replace</title>
+      <link>/tags/replace/</link>
+      <pubDate>Wed, 24 Oct 2018 15:27:17 +0900</pubDate>
+      
+      <guid>/tags/replace/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>String</title>
+      <link>/tags/string/</link>
+      <pubDate>Wed, 24 Oct 2018 15:27:17 +0900</pubDate>
+      
+      <guid>/tags/string/</guid>
       <description></description>
     </item>
     
