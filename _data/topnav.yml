@@ -8,7 +8,8 @@ topnav:
     - title: News
       url: /news
 	- title: test
-	  url: /test
+      external_url: https://naver.com
+	  #url: /test
 
 #Topnav dropdowns
 topnav_dropdowns:
